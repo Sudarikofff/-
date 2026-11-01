@@ -1,0 +1,229 @@
+{
+  "version": "1.1.0",
+  "files": {
+    "Discipline_PS_FSB.spec": {
+      "old_sha256": null,
+      "new_sha256": "bc6e4ee9008b091356ad45d68a4d9c0d394a27dc7e4b6b55d42b6b268b72da49"
+    },
+    "README.md": {
+      "old_sha256": null,
+      "new_sha256": "d84abc8d02cdc8a1201237752b504be486a388417a1c32250887e57e6aa3f935"
+    },
+    "WINDOWS_BUILD.txt": {
+      "old_sha256": null,
+      "new_sha256": "46f8d6e4b1d48c6099c6e092e8343dc10ee37913b4343617da59052110055a50"
+    },
+    "build_windows.bat": {
+      "old_sha256": null,
+      "new_sha256": "7535219448e66a0d54b003ba4a9bca4f338bec061706e7533988e0810aefb258"
+    },
+    "config.py": {
+      "old_sha256": null,
+      "new_sha256": "717cca11637defedf02ccd285186fd54571303ddc01fa10e02160a8be45e138f"
+    },
+    "database/connection.py": {
+      "old_sha256": null,
+      "new_sha256": "60ae3c0b339702bd5b75351d547fd9563aa16b053cbfdb0fe63cd677447596eb"
+    },
+    "database/discipline_repository.py": {
+      "old_sha256": null,
+      "new_sha256": "76c21c328e4bbf37027c94b5bfa1d350d9312e1a1699c73eae467572286209c6"
+    },
+    "database/notification_center.py": {
+      "old_sha256": null,
+      "new_sha256": "124093e4f0dddd9537fa2f1ee3c228d8fe894d1e966e5ecffb70675e63b37533"
+    },
+    "database/osago_notifications.py": {
+      "old_sha256": null,
+      "new_sha256": "5ec20589b629b49216d9c5fe22c610a7a22e9f2edc0eed2f99bc506f26efebce"
+    },
+    "database/personnel_editor.py": {
+      "old_sha256": null,
+      "new_sha256": "8c8247ce96f2fde8897b9d803d2e0d20c59f92966b4d375bd4bc11a2c7863cea"
+    },
+    "database/profile_migration.py": {
+      "old_sha256": null,
+      "new_sha256": "4eee361a5e06bfd35635ef9128fdde253a2794a6de6c0acef27ca4a0d8d231a6"
+    },
+    "database/profile_repository.py": {
+      "old_sha256": null,
+      "new_sha256": "2678076e99308946573cf4bc5513aa1fa5bf0e45c5559f797ef86f4f28508a00"
+    },
+    "database/repositories.py": {
+      "old_sha256": null,
+      "new_sha256": "1a0ece2f45d253467808f64957962ca956ef3b7280a1ecb01a3b4e27ad1d94ce"
+    },
+    "database/schema.py": {
+      "old_sha256": null,
+      "new_sha256": "e1c5f3abe7adc6bfd18c06830426ae9fbffd5d4064ae39199cfa4cfceab59b14"
+    },
+    "database/seed.py": {
+      "old_sha256": null,
+      "new_sha256": "3e323a0616acee904fdd944aba0f5397b77266ef3192d8406378c8260ae4357e"
+    },
+    "database/service_history_repository.py": {
+      "old_sha256": null,
+      "new_sha256": "f284fef2ab25028ffe7aeafdad73e31ff17af6f887cd83dbfb813634badd4695"
+    },
+    "main.py": {
+      "old_sha256": null,
+      "new_sha256": "ea6da55a6785f0738322c4e8939105b2436c56b8eaefd243a5647fe956dcb460"
+    },
+    "packaging/windows_runtime.py": {
+      "old_sha256": null,
+      "new_sha256": "308603fd296921f7a5c99d3c8d1ef9f9216a68d8b75a05a7a31562a0276106af"
+    },
+    "personnel_document.py": {
+      "old_sha256": null,
+      "new_sha256": "e4f4b0302402902b07b45f63d1593c32d0aa14d7cf2b64fc338be7669152275b"
+    },
+    "personnel_fields.py": {
+      "old_sha256": null,
+      "new_sha256": "f48b4fef0101f964527dcbcea5bcae9db61e75c2207e8520541598d295ce561d"
+    },
+    "requirements.txt": {
+      "old_sha256": null,
+      "new_sha256": "550c084f10f2322bd5e6d1baf1c874e9e8875184ffbb3e3f6f5832d9ce3da25f"
+    },
+    "tests/test_notification_center.py": {
+      "old_sha256": null,
+      "new_sha256": "153ad440ad32e0ad4d73bcc81f0be068d72f2f1dd0013358a71656169a7e5415"
+    },
+    "tests/test_osago_notifications.py": {
+      "old_sha256": null,
+      "new_sha256": "471bed4623bbd3ccdfda34f19a580636662d89ba3aaa99d324e46f7381ae5cb5"
+    },
+    "tests/test_personnel_document.py": {
+      "old_sha256": null,
+      "new_sha256": "fa072600faa170b0e7c0a394542ee149ea967a87b267146cab63865c03125e38"
+    },
+    "tests/test_personnel_editor.py": {
+      "old_sha256": null,
+      "new_sha256": "afa799c5650708aa22f6e1d6064ed2cfc5a5dcd497ba3a4667f6c14684d2aaa0"
+    },
+    "tests/test_profile.py": {
+      "old_sha256": null,
+      "new_sha256": "4f1a1bd94e036e155177e7df7c4cf9694cb3b6d92f2a520db29a79ba4c7e5833"
+    },
+    "tests/test_reference_persistence.py": {
+      "old_sha256": null,
+      "new_sha256": "eb0706ff36273657d7a4e5f4a9e60ab4c2da588d7ef41764e66fc6bbca996129"
+    },
+    "tests/test_table_copy.py": {
+      "old_sha256": null,
+      "new_sha256": "08ebb12bb9518dd475f4ce67eea1cb4442156cfcf2dd4bcf7f07bcf816174e4b"
+    },
+    "tests/test_update.py": {
+      "old_sha256": null,
+      "new_sha256": "795f7245e8a4ecdc2ad8dd3e9c7639c8b9bf97aef7134c5be0627d81bf23f72b"
+    },
+    "theme.py": {
+      "old_sha256": null,
+      "new_sha256": "d6160ce816f2899ee0b2de16ac03a52aecf2754a9e529e8d0d801a18b7cc5d0c"
+    },
+    "ui/app.py": {
+      "old_sha256": null,
+      "new_sha256": "40a9c9686e2dd32cc975c59ff3c3632474f70edfe11149f78bfc3ee2d1d8d046"
+    },
+    "ui/dashboard/dashboard_view.py": {
+      "old_sha256": null,
+      "new_sha256": "3ea1815acbdb8cb7041ee23bdd36ece225df79623a42fcca745738444dfad759"
+    },
+    "ui/deadlines_view.py": {
+      "old_sha256": null,
+      "new_sha256": "0f6ba6e47b6b7b8331af7fb679cf86d2b9b07a19beafab195ef989cb1c72d489"
+    },
+    "ui/discipline/discipline_form.py": {
+      "old_sha256": null,
+      "new_sha256": "346fe3a2fd1425506eacb6fd0891fd3e7968d718ad1b16a4f2d05612707be88a"
+    },
+    "ui/discipline/discipline_table.py": {
+      "old_sha256": null,
+      "new_sha256": "c062d972d84c65d525e13acea3d01b31c765323b568250a561ddc254503aaf25"
+    },
+    "ui/discipline/discipline_view.py": {
+      "old_sha256": null,
+      "new_sha256": "7be1f7c281d0dcf41fd408dabcfc7aa3a2e674787de52e620778dd2bac7dcd4e"
+    },
+    "ui/discipline/remove_penalty_dialog.py": {
+      "old_sha256": null,
+      "new_sha256": "baaf6e12defdb35c798de501a5f555f6a581c80a28a1ee309a5316e9175fea4e"
+    },
+    "ui/notifications_view.py": {
+      "old_sha256": null,
+      "new_sha256": "ecdd46d6091236348241f421a88f10e7a7540432a4d5a7dfb73e99037139c63e"
+    },
+    "ui/personnel/personnel_card.py": {
+      "old_sha256": null,
+      "new_sha256": "600d899bcfe77e91a3a1d2d6b78545f3c3f7e986ee59ba7bf406699cbb7235a5"
+    },
+    "ui/personnel/personnel_discipline_table.py": {
+      "old_sha256": null,
+      "new_sha256": "2981d775353fe2d43d674a6d96c6d35f72b1a7e40ecc0393b7aa3897d02c9776"
+    },
+    "ui/personnel/personnel_form.py": {
+      "old_sha256": null,
+      "new_sha256": "2cbb5a85f1e04ae223a1b576a295ea9bf574f314f7454e1fb0c5969f1df9efbd"
+    },
+    "ui/personnel/personnel_service_history_table.py": {
+      "old_sha256": null,
+      "new_sha256": "14921c37367ec61b77ad7fc027fd97abe56aa531ab86a00c97be07ae27c389cc"
+    },
+    "ui/personnel/personnel_table.py": {
+      "old_sha256": null,
+      "new_sha256": "aed9aed3ed6bab383f0546289b980b9c648e837f531606a54648b9fd0df9f9ef"
+    },
+    "ui/personnel/personnel_toolbar.py": {
+      "old_sha256": null,
+      "new_sha256": "1d163600cdf33c22e93b8990e904d7bc9bafd53b1dce7250371a4c12e367a655"
+    },
+    "ui/personnel/personnel_view.py": {
+      "old_sha256": null,
+      "new_sha256": "e7ed50f4e95b96cbe1adbf76ed2b6ad07a138b563673aac18df80b2c765db12c"
+    },
+    "ui/reference/reference_dialog.py": {
+      "old_sha256": null,
+      "new_sha256": "e6d7e9a6c37778b6ba765b8531c5fb8c33d1d563cdc363248caace0fdd16c9bc"
+    },
+    "ui/reference/reference_table.py": {
+      "old_sha256": null,
+      "new_sha256": "e4d1fed0c80922ab44494d5efac2cf5b0daf4dd81593f5f5296da28feeb9faf4"
+    },
+    "ui/reference/reference_view.py": {
+      "old_sha256": null,
+      "new_sha256": "b45db51516e1ff242e7a3744342ca79bec97b68cbce6420117031feff91dbaa1"
+    },
+    "ui/widgets/copyable_treeview.py": {
+      "old_sha256": null,
+      "new_sha256": "3e2edf1c108493fd16f82b14e6c89fdcae46b0a34066258d30322bee3988450e"
+    },
+    "ui/widgets/data_events.py": {
+      "old_sha256": null,
+      "new_sha256": "5704bfb44a4a2d08041202ac2959cc359a338958936ba1d9eac8c1c12b65c8d3"
+    },
+    "ui/widgets/excel_treeview.py": {
+      "old_sha256": null,
+      "new_sha256": "b5b8d6547a6f25b07e770257053805e29be81aabc065af97dd1a69f7a3b0fb79"
+    },
+    "ui/widgets/filter_controls.py": {
+      "old_sha256": null,
+      "new_sha256": "7e78612d8d11c2f8d3c49d0e8214671e8d91c91b356c054d2c032469b97b648c"
+    },
+    "ui/widgets/modal.py": {
+      "old_sha256": null,
+      "new_sha256": "5a2bb52a0b8013ec5e10a1f7959feb7c3c36f2f4048f8df16856e2eb249be313"
+    },
+    "ui/widgets/period_filter.py": {
+      "old_sha256": null,
+      "new_sha256": "aeeddddb2b08d55873079d34147ccc23c6847e79af9d3f44a24c47b7429a1e2e"
+    },
+    "ui/widgets/record_editor.py": {
+      "old_sha256": null,
+      "new_sha256": "be2301d08dff90162600df08d79ed939e87395b0de1a505efe070a0ad031274e"
+    },
+    "ui/widgets/table_style.py": {
+      "old_sha256": null,
+      "new_sha256": "6976cc86fd5a20b055bb9dc5d079160a681c2bf91cff50a5aa41521a40e16bdb"
+    }
+  }
+}
